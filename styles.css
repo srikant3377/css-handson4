@@ -1,0 +1,202 @@
+.our {
+    text-decoration: underline;
+    text-align: center;
+    height: 30px;
+    width: 100%;
+    background-image: linear-gradient(to right,red,green,yellow);
+    border: 2px solid black;
+    font-weight:bolder;
+    padding-top: 10px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+.box2 {
+    height: auto;
+    width: 70%;
+    border: 5px solid red;
+    background-color: rgb(51, 125, 125);
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 180px;
+    /* padding-left: 1000px; */
+    margin-bottom: 10px;
+    }
+    ul{
+    display: inline-block;
+    }
+    .list{
+        padding-left: 60px;
+       
+    }
+   
+   .box3 {
+    height: 168px;
+    width: 130%;
+    border: 2px solid red;
+    background: rgb(56, 163, 83);
+    border-radius: 10px;
+    
+   }
+   .box33 {
+    display: flex;
+    gap: 70px;
+   }
+   .box34 {
+   margin-left: 545px;
+   }
+   .boxx {
+    height: 60px;
+    width: 400px;
+    border: 2px solid green;
+    background: aqua;
+    border-radius: 10px;
+    padding: 10px;
+
+   }
+   .box11 {
+    margin-left: 50px;
+   }
+/* .box11 {
+  float: left;  
+}
+.box13 {
+    float: right;
+}
+boxxx{
+    margin-left: 500px;
+} */
+.top {
+    height: 40px;
+    width: 100%;
+    text-decoration: underline red;
+    font-weight:bold;
+    /* font-style: italic; */
+    text-align: center;
+    background-image: linear-gradient(to right,red,yellow,red);
+/* border: 1px solid red; */
+/* font-size: x-large; */
+}
+.box4 {
+height: 300px;
+width: 100%;
+background-image: radial-gradient(blue,green);
+border: 2px solid green;
+}
+.box41 {
+ height: 80px;
+ width: 180px;
+ background: yellow;   
+ color: red;
+ text-align: center;
+ text-decoration: underline;
+ font-weight:bolder;
+ border: 2px solid red;
+ 
+ border-radius: 10px;
+ 
+}
+.box44 {
+    gap: 70px;
+    display: flex;
+    margin-top: 110px;
+    margin-left: 280px;
+}
+.table {
+    display: grid;
+    grid-template-columns: auto auto auto auto 100px;
+    grid-template-rows: 50px 100px 150px 30px;
+    /* margin: 3px; */
+    gap: 10px;
+    /* grid-gap: 10px; */
+    /* font-size:large; */
+    /* margin-top: 50px; */
+}
+.lux1 {
+   height: auto;
+   width: 100%;
+   background: red;
+   /* margin: 50px;  */
+   grid-column: 1/5;
+   grid-row: 1/2;
+   color: white;
+   font-weight: bolder;
+   text-align: center;
+   /* justify-content: center; */
+   /* align-items: center; */
+   font-size: x-large;
+}
+.lux2 {
+    height: auto;
+    width: 470px;
+    background: green;
+    grid-column: 1/2;
+    grid-row: 2/3;
+    font-weight: bolder;
+    color: white;
+text-align: center;
+font-size:x-large;
+
+}
+.lux3 {
+    height: auto;
+    width: 450px;
+    color: white;
+    background: rgb(0, 89, 255);
+    grid-column: 2/3;
+    grid-row: 2/3;
+    font-size:x-large;
+}
+.lux4 {
+    height: autopx;
+    width: 450px;
+    color: white;
+    background: rgb(26, 3, 56);
+    grid-column: 3/4;
+    grid-row: 2/3;
+    font-size:x-large;
+    
+}
+.lux6 {
+    background: orange;
+    color: white;
+    height: auto;
+    width: 1400px;
+    grid-column: 1/4;
+    grid-row: 3/4;
+    font-size:x-large;
+
+}
+.lux5 {
+    height: auto;
+    width: 110px;
+    background: black;
+    color: white;
+    grid-column: 4/5;
+    grid-row: 2/4;
+    /* text-decoration: underline; */
+    font-size: large;
+    margin-left: 0px;
+
+}
+.lux7 {
+    height: auto;
+    width: 100%;
+    background: rgb(9, 198, 205);
+    color: black;
+    grid-column: 1/5;
+    grid-row: 4/5;
+    text-align: center;
+    font-weight:bolder;
+    
+}
+/* .boxu {
+    height: 500px;
+    width: 100%;
+} */
+/* .lux {
+    position: absolute;
+
+} */
+.biriyani{
+    text-decoration: underline;
+}
